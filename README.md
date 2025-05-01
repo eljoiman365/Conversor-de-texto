@@ -1,4 +1,4 @@
-#  🪙 Conversor-de-monedas 🪙
+##  🪙 Conversor-de-monedas 🪙
 
 Este código desarrollado en java consiste en una aplicación backend, la cual permite realizar la conversión de varias monedas a dólares estadounidenses
 o viceversa.
@@ -13,6 +13,8 @@ o viceversa.
 🟡 Los datos utilizados se consumieron mediante la API "v6.exchangerate". Por último el programa generara un archivo JSON con el historial de conversiones
   realizadas
 
-Espero que lo disfrutes 😊
+## Hecho por:
 
+🎮 Yorman Corba 🎮 - 
+💼 Linkedin: [www.linkedin.com/in/yorman-corba-143b13220](https://www.linkedin.com/in/yorman-estiben-corba-casta%C3%B1o-143b13220/)
 
